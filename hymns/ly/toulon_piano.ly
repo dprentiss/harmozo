@@ -68,5 +68,4 @@ verseTwo = \lyricmode {
     \layout{
         indent = #0
     }
-    \midi{}
 }
